@@ -30,7 +30,7 @@ and developers face similar issues when sharing data or publishing media that co
 
 1. The user provides a folder of images they want to anonymize.
 2. A YOLOv11 model detects human faces.
-3. A custom overlay image (e.g., emoji or panda face) is resized and positioned over each detected face.
+3. A custom overlay image (e.g., emoji or blurred pngs) is resized and positioned over each detected face.
 4. The edited image is saved to a separate output folder.
 
 ---
@@ -76,6 +76,9 @@ This tool is designed for ethical use only. Please ensure that anonymization is 
 
 -Made with ❤️ for privacy-conscious creators.
 ## Details
+
 Project Name: EntityCloaked
+
 Author: Shaik Alisha
+
 Purpose: Making facial privacy accessible to everyone.
