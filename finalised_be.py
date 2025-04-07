@@ -10,7 +10,7 @@ from ultralytics import YOLO  # we’re using YOLOv11 for face detection
 VALID_EXTENSIONS = ['.jpg', '.jpeg', '.png']
 
 # Load up your YOLOv11 model — make sure the path is right!
-model = YOLO(r"C:\Users\farra\Downloads\hfdyolov11\runs\weights\best.pt")
+model = YOLO(r"\path\to\best.pt")
 
 # Load your panda face overlay and make sure it supports transparency
 overlay = Image.open("overlay.png").convert("RGBA")
