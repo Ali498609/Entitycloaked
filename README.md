@@ -53,25 +53,29 @@ overlay = Image.open("overlay.png").convert("RGBA")
 ```
 
 ## 🤝 Ideal Use Cases
-*Preparing datasets for machine learning research while preserving privacy.
 
-*Vloggers or content creators editing public footage.
+* Preparing datasets for machine learning research while preserving privacy.
 
-*Teachers/students sharing class recordings or group photos.
+* Vloggers or content creators editing public footage.
 
-*Surveillance video anonymization.
+* Teachers/students sharing class recordings or group photos.
 
-##🛠️ Contributing
+* Surveillance video anonymization.
+
+## 🛠️ Contributing
+
 Pull requests and suggestions are welcome! If you have ideas to improve performance, UI, or want to add new overlay options — open an issue or contribute directly.
 
-##🚫 Disclaimer
+## 🚫 Disclaimer
+
 This tool is designed for ethical use only. Please ensure that anonymization is compliant with local laws and that you have the right to modify and share the images.
 
-##📚 License
+## 📚 License
+
 -This project is open-source and available under the MIT License.
 
 -Made with ❤️ for privacy-conscious creators.
-
+## Details
 Project Name: EntityCloaked
 Author: Shaik Alisha
 Purpose: Making facial privacy accessible to everyone.
