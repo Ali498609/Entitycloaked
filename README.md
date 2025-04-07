@@ -47,7 +47,7 @@ and developers face similar issues when sharing data or publishing media that co
 pip install ultralytics pillow torch
 python script.py <input_folder> <output_folder>
 
-Make sure your model path and overlay image are correctly set in the script:
+# Make sure your model path and overlay image are correctly set in the script:
 model = YOLO("path/to/best.pt")
 overlay = Image.open("overlay.png").convert("RGBA")
 ```
