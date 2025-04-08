@@ -41,7 +41,7 @@ and developers face similar issues when sharing data or publishing media that co
 - [Ultralytics YOLOv11](https://github.com/ultralytics/ultralytics)
 - Pillow
 - Torch
-- Download best.pt(train on public dataset in kaggle) model from releases tab
+- Download best.pt(trained on public dataset in kaggle) model from releases tab
 
 ## Install dependencies:
 ```bash
