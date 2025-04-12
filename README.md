@@ -83,3 +83,7 @@ Project Name: EntityCloaked
 Author: Shaik Alisha
 
 Purpose: Making facial privacy accessible to everyone.
+
+## DEMO
+
+https://youtu.be/fN1itSFwdIs
